@@ -1,2 +1,2 @@
 # Project_5_Anamoly_Detection
-Co tians report and code of the Project 5 in CyberAnalytica and Machine L
+Had extra time from professor, and he said in class to implement only two of the algorithms mentioned in the research paper.
